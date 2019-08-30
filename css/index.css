@@ -6,13 +6,13 @@ body {
     padding: 0 .33rem 0 .27rem;
 }
 .warning-title {
-    font-size: 24px;
+    font-size: .24rem;
     height: 1.03rem;
     line-height: 1.03rem;
 }
 .warning-wrap {
     background-color: white;
-    box-shadow: 2px 6px 10px 10;
+    box-shadow: 2px 0px .1rem .06rem rgba(0, 0, 0, 0.1);
     border-radius: .10rem;
     padding-bottom: 0.35rem;
 }
@@ -90,5 +90,5 @@ body {
 }
 .navbar > li > p {
     padding-top: 0.13rem;
-    font-size: 20px;
+    font-size: .20rem;
 }
