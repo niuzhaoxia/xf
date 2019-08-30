@@ -47,10 +47,9 @@ body {
 
 .item-wrap > li {
     display: flex;
-    
 }
-/* .item-wrap > li:nth-child(odd) {
-    margin-right: 1rem;
+/* .item-wrap > li:nth-child(even) {
+    
 } */
 .item-wrap > li:nth-child(1), .item-wrap > li:nth-child(2) {
     margin-bottom: .18rem;
